@@ -1,0 +1,11 @@
+difficulty,duration,offerid,reward,email,mobile,social,web,offer_name,bogo,discount,informational
+10,7,ae264e3637204a6fb9bb56bc8210ddfd,10,1,1,1,0,bogo_10_7_10,1,0,0
+10,5,4d5c57ea9a6940dd891ad53e9dbe8da0,10,1,1,1,1,bogo_10_5_10,1,0,0
+0,4,3f207df678b143eea3cee63160fa8bed,0,1,1,0,1,informational_0_4_0,0,0,1
+5,7,9b98b8c7a33c4b65b9aebfe6a799e6d9,5,1,1,0,1,bogo_5_7_5,1,0,0
+20,10,0b1e1539f2cc45b7b9fa7c272da2e1d7,5,1,0,0,1,discount_20_10_5,0,1,0
+7,7,2298d6c36e964ae4a3e7e9706d1fb8c2,3,1,1,1,1,discount_7_7_3,0,1,0
+10,10,fafdcd668e3743c1bb461111dcafc2a4,2,1,1,1,1,discount_10_10_2,0,1,0
+0,3,5a8bc65990b245e5a138643cd4eb9837,0,1,1,1,0,informational_0_3_0,0,0,1
+5,5,f19421c1d4aa40978ebb69ca19b0e20d,5,1,1,1,1,bogo_5_5_5,1,0,0
+10,7,2906b810c7d4411798c6938adc9daaa5,2,1,1,0,1,discount_10_7_2,0,1,0
