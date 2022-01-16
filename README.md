@@ -27,6 +27,14 @@ Finally, a blog post discussing the findings and visualizations can be found at 
 README.md - a markdown file containing this information
 Starbucks_Capstone_Notebook.ipynb - a Jupyter Notebooks with calculations, models and visualizations
 Starbucks_Capstone_Notebook.html - an html file saved from the Jupyter notebooks
+data/merged_data.csv - a datafile will merged cleaned datafile
+data/portfolio.json - a json file with portfolio data (provided at start)
+data/portfolio_clean.csv - a datafile with cleaned porfolio datafile
+data/profile.json - a json file with profile data (provided at start)
+data/profile_clean.csv - a datafile with cleaned profile datafile
+data/profile_offer_feature.csv - a datafile with merged profile offer data in feature form
+data/transcript.json - a json file with transcript data (provided at start)
+data/transcript_clean.csv - a datafile with cleaned transcript data
 ## Installation:
 None
 ## Acknowledgements:
